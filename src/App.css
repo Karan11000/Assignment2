@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+
+/* .App {
+  min-height: 100vh;
+  background-image: url("https://source.unsplash.com/1600x900/?japan");
+  background-position: center;
+  background-size: cover;
+} */
+
+.details{
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  align-content: space-around;
+}
+
+.detail_component1{
+     width: 35% !important; 
+     margin: 0 1rem;
+}
+.detail_component2{
+     width: 55% !important;
+}
+
+.full{
+  width: 100%;
+  margin: 2rem;
+}
+
+.data{
+
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin: 2rem;
+}
